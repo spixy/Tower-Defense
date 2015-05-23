@@ -1,0 +1,5 @@
+antialiasing 4
+vsync 1
+speed 1.0
+sounds 100  
+music 25
