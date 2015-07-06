@@ -2,7 +2,7 @@
 
 Open Tower Defense game with option to create own maps, levels, change music or other resources.
 
-![Game screenshot](https://www.hojko.com/download/image/120605)
+![Game screenshot](https://camo.githubusercontent.com/95020e106d892689ebed8c69961af8cc0faa974b/68747470733a2f2f7777772e686f6a6b6f2e636f6d2f646f776e6c6f61642f696d6167652f313230363035)
 
 # Custom maps
 
